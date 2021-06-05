@@ -1,0 +1,35 @@
+html {
+  background-color: rgb(245, 245, 245);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
+#root {
+  height: 100vh;
+}
+
+.css-vj8t7z {
+  border-radius: 0 !important;
+  border: transparent !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.54) !important;
+}
+
+.css-2o5izw {
+  border-radius: 0 !important;
+  border: transparent !important;
+  box-shadow: 0 0 !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.54) !important;
+}
+
+.css-2o5izw:hover {
+  border-radius: 0 !important;
+  border-color: transparent !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.54) !important;
+}
